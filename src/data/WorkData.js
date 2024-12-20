@@ -21,25 +21,7 @@ export const Work = [
       github:"https://github.com/sarthak-shastrakar/Portfolio"
 
   },
-  // {
-  //     id:3,
-  //     name:"Dev.to Clone",
-  //     description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-  //     tags:["react","api","sass"],
 
-  //     demo:"http://devto-clone-codebucks27.vercel.app/",
-  //     github:"https://github.com/codebucks27/devto-clone"
-  // },
-  //   {
-  //     id: 4,
-  //     name: "Sidebar Menu",
-  //     description:
-  //       "A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-  //     tags: ["react", "styledComponents", "react-router"],
-
-  //     demo: "https://react-sidebar.vercel.app/",
-  //     github: "https://github.com/codebucks27/react-sidebar",
-  //   },
   {
     id: 5,
     name: "Todo App[React]",
