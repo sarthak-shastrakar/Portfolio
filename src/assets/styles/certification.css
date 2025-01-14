@@ -6,6 +6,9 @@
 .box {
   display: flex;
   position: fixed;
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  scroll-padding: 10px;
   width: 100vw;
 }
 .Main_Certificae_section {

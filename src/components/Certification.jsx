@@ -6,6 +6,7 @@ import SocialIcons from "../subComponents/SocialIcons";
 // import { motion } from "framer-motion";
 import certificate1 from "../assets/Images/certificate1.jpg";
 import certificate2 from "../assets/Images/certificate2.jpg";
+import certificate3 from "../assets/Images/certificate3.jpg";
 import Resume from "../assets/Images/Reader_RESUME.docx";
 import "../assets/styles/certification.css";
 
@@ -40,6 +41,14 @@ function Certification() {
           />
           <img
             src={certificate2}
+            alt=""
+            srcset=""
+            data-aos="flip-up"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+          />
+            <img
+            src={certificate3}
             alt=""
             srcset=""
             data-aos="flip-up"
