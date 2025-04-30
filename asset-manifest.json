@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.163098af.css",
-    "main.js": "/Portfolio/static/js/main.0b2330b1.js",
+    "main.css": "/Portfolio/static/css/main.0cad142b.css",
+    "main.js": "/Portfolio/static/js/main.3b13be5c.js",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/spaceman2.png": "/Portfolio/static/media/spaceman2.4aa1e6e6a8203ae8e2af.png",
     "static/media/grimreaper.png": "/Portfolio/static/media/grimreaper.cc7d095d9f28e50354bc.png",
+    "static/media/My-Resume.pdf": "/Portfolio/static/media/My-Resume.784e3e559950ae8abbf6.pdf",
     "static/media/spaceman.png": "/Portfolio/static/media/spaceman.5ec7fcfa9a803ead726c.png",
     "static/media/certificate2.jpg": "/Portfolio/static/media/certificate2.6500ea4e9c71ab711ede.jpg",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.d95c4234067acd790216.png",
     "static/media/css.jpg": "/Portfolio/static/media/css.51b3eba6c1490f659cbc.jpg",
     "static/media/certificate1.jpg": "/Portfolio/static/media/certificate1.748952ca967827530075.jpg",
     "static/media/certificate3.jpg": "/Portfolio/static/media/certificate3.42fdba65e84dc5b3c451.jpg",
-    "static/media/Reader_RESUME.docx": "/Portfolio/static/media/Reader_RESUME.789f1142c3009da07e88.docx",
     "index.html": "/Portfolio/index.html",
-    "main.163098af.css.map": "/Portfolio/static/css/main.163098af.css.map",
-    "main.0b2330b1.js.map": "/Portfolio/static/js/main.0b2330b1.js.map"
+    "main.0cad142b.css.map": "/Portfolio/static/css/main.0cad142b.css.map",
+    "main.3b13be5c.js.map": "/Portfolio/static/js/main.3b13be5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.163098af.css",
-    "static/js/main.0b2330b1.js"
+    "static/css/main.0cad142b.css",
+    "static/js/main.3b13be5c.js"
   ]
 }
