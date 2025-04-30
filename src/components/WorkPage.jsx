@@ -32,7 +32,6 @@ const Spaceman = styled.div`
 
 const Box = styled.div`
   background-color: ${(props) => props.theme.body};
-
   height: 400vh;
   position: relative;
   display: flex;
@@ -45,7 +44,6 @@ const Main = styled(motion.ul)`
   left: calc(10rem + 15vw);
   height: 40vh;
   display: flex;
-
   color: white;
 `;
 const Rotate = styled.span`

@@ -6,16 +6,16 @@ export const Work = [
     name: "Video Conferencing App",
     description:
       " A real-time video conferencing application built using the MERN (MongoDB, Express, React, Node.js) technology stack.",
-    tags: ["MERN stack", "Reactjs", "Nodejs"],
+    tags: ["MERN stack", "React.js", "Node.js", "MongoDB"],
 
-    demo: "https://video-call-app-frontend-mm60.onrender.com",
-    github: "https://github.com/sarthak-shastrakar/Video-Conferencing-App",
+    demo: "https://conectify-call-frontend.onrender.com",
+    github: "https://github.com/sarthak-shastrakar/Conectify-Call",
   },
   {
       id:2,
       name:"Personal Portfolio Website",
       description:"A personal portfolio website build using ReactJS, Framer-Motion and Animation. It is a responsive website with a clean and modern design.",
-      tags:["react","sass"],
+      tags:["React.js","AOS", "CSS"],
 
       demo:"https://sarthak-shastrakar.github.io/Portfolio/",
       github:"https://github.com/sarthak-shastrakar/Portfolio"
@@ -28,7 +28,7 @@ export const Work = [
       tags:["HTML","CSS","JavaScript"],
 
       demo:"https://sarthak-shastrakar.github.io/Ai-chatbot/",
-      github:"https://github.com/sarthak-shastrakar/Ai-chatbot"
+      github:"https://github.com/sarthak-shastrakar/chatbot-AI"
   },
   //   {
   //     id: 4,
@@ -44,7 +44,7 @@ export const Work = [
     id: 5,
     name: "Todo App[React]",
     description: "A todo app build using React.js technology",
-    tags: ["Reactjs Technology", "JavaScript"],
+    tags: ["React.js", "JavaScript"],
 
     demo: "https://sarthak-shastrakar.github.io/Todo-App/",
     github: "https://github.com/sarthak-shastrakar/Todo-App",
@@ -53,7 +53,7 @@ export const Work = [
     id: 6,
     name: "API Based Jokes_Maker App",
     description: "A Jokes Maker App build using React.js technology",
-    tags: ["react", "API"],
+    tags: ["React.js", "API"],
 
     demo: "https://sarthak-shastrakar.github.io/Jokes_Maker/",
     github: "https://github.com/sarthak-shastrakar/Jokes_Maker",

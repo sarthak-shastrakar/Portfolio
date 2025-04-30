@@ -103,7 +103,7 @@ const BlogPage = () => {
                 <p>My Social Media..</p>
                 <ul>
                   <li>
-                    <a href="https://github.com/sarthak-shastrakar">
+                    <a href="https://github.com/sarthak-shastrakar" target="_blank">
                       {" "}
                       <i>
                         <Github
@@ -116,7 +116,7 @@ const BlogPage = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/in/sarthakshastrakar91/">
+                    <a href="https://www.linkedin.com/in/sarthakshastrakar91/" target="_blank">
                       <i>
                         <LinkedinIcon width={25} height={25} />
                       </i>
@@ -124,7 +124,7 @@ const BlogPage = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="mailto:sarthakshastrakar9@gmail.com">
+                    <a href="mailto:sarthakshastrakar9@gmail.com" target="_blank">
                       <i>
                         <Gmail width={25} height={25} />
                       </i>

@@ -7,16 +7,13 @@ import LogoComponent from "../subComponents/LogoComponent";
 import SocialIcons from "../subComponents/SocialIcons";
 import { YinYang } from "./AllSvgs";
 import Intro from "./Intro";
+import Dragon from "../assets/Images/grimreaper.png";
 import "./styles.css";
 
 const MainContainer = styled.div`
   // background: ${(props) => props.theme.body};
-  background: linear-gradient(
-    132deg,
-    rgb(2, 106, 122) 0%,
-    rgb(242, 78, 163) 100%
-  );
-
+ background-color:#39a0ca;
+//  background-image: linear-gradient(135deg, #89D4CF 10%, #734AE8 100%);
   width: 100vw;
   height: 100vh;
   overflow: hidden;
@@ -86,12 +83,12 @@ const SKILLS = styled(NavLink)`
 `;
 
 const rotate = keyframes`
-from{
-    transform: rotate(0);
-}
-to{
-    transform: rotate(360deg);
-}
+// from{
+//     transform: rotate(0);
+// }
+// to{
+//     transform: rotate(360deg);
+// }
 `;
 
 const Center = styled.button`
@@ -141,12 +138,20 @@ const Main = () => {
     <MainContainer>
       <DarkDiv click={click} />
       <Container>
-        {/* <PowerButton /> */}
+        {/* <PowerButton />  */}
         <LogoComponent theme={click ? "dark" : "light"} />
         <SocialIcons theme={click ? "dark" : "light"} />
 
         <Center click={click}>
-          <YinYang
+          {/* <YinYang
+            onClick={() => handleClick()}
+            width={click ? 60 : 100}
+            height={click ? 60 : 100}
+            fill="currentColor"
+          /> */}
+          <img
+            src={Dragon}
+            alt="spaceman"
             onClick={() => handleClick()}
             width={click ? 60 : 100}
             height={click ? 60 : 100}

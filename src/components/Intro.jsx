@@ -95,7 +95,7 @@ const Intro = () => {
               1000,
               "Aspiring Full Stack Web Developer",
               1000,
-              "Passionated about MERN stack developer",
+              "Passionate about MERN stack developer",
               1000,
             ]}
             wrapper="span"
