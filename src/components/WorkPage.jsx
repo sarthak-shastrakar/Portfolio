@@ -32,7 +32,7 @@ const Spaceman = styled.div`
 
 const Box = styled.div`
   background-color: ${(props) => props.theme.body};
-  height: 400vh;
+  height: 700vh;
   position: relative;
   display: flex;
   align-items: center;

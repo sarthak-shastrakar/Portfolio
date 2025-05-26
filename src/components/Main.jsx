@@ -7,13 +7,14 @@ import LogoComponent from "../subComponents/LogoComponent";
 import SocialIcons from "../subComponents/SocialIcons";
 import { YinYang } from "./AllSvgs";
 import Intro from "./Intro";
-import Dragon from "../assets/Images/grimreaper.png";
+import Dragon from "../assets/Images/image_1.png";
 import "./styles.css";
 
 const MainContainer = styled.div`
   // background: ${(props) => props.theme.body};
- background-color:#39a0ca;
-//  background-image: linear-gradient(135deg, #89D4CF 10%, #734AE8 100%);
+  
+  // background-image: linear-gradient(to right, #434343 5%, black 110%);
+  background-image: linear-gradient(to right, #141e30, #243b55);
   width: 100vw;
   height: 100vh;
   overflow: hidden;
@@ -33,7 +34,8 @@ const Container = styled.div`
 `;
 
 const CONNECT = styled(NavLink)`
-  color: ${(props) => props.theme.text};
+  color: white;
+  // color: ${(props) => props.theme.text};
   position: absolute;
   top: 50%;
   right: calc(-1.5rem + 2vw);
@@ -42,8 +44,8 @@ const CONNECT = styled(NavLink)`
   z-index: 1;
 `;
 const WORK = styled(NavLink)`
-  color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
-
+  // color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
+  color: white;
   position: absolute;
   top: 44%;
   left: calc(1rem + 2vw);
@@ -52,7 +54,9 @@ const WORK = styled(NavLink)`
   z-index: 1;
 `;
 const Certification = styled(NavLink)`
-  color: ${(props) => props.theme.text};
+  // color: ${(props) => props.theme.text};
+  color: white;
+
   position: absolute;
   top: 2rem;
   right: calc(1rem + 2vw);
@@ -72,12 +76,14 @@ const BottomBar = styled.div`
 `;
 
 const ABOUT = styled(NavLink)`
-  color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
+  // color: ${(props) => (props.click ? props.theme.body : props.theme.text)};
+  color: white;
   text-decoration: none;
   z-index: 1;
 `;
 const SKILLS = styled(NavLink)`
-  color: ${(props) => props.theme.text};
+  // color: ${(props) => props.theme.text};
+  color: white;
   text-decoration: none;
   z-index: 1;
 `;
@@ -153,11 +159,11 @@ const Main = () => {
             src={Dragon}
             alt="spaceman"
             onClick={() => handleClick()}
-            width={click ? 60 : 100}
-            height={click ? 60 : 100}
+            width={click ? 70 : 100}
+            height={click ? 70 : 100}
             fill="currentColor"
           />
-          <span>click</span>
+          <span >click</span> 
         </Center>
 
         <Certification to="/certification">

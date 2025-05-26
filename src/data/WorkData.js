@@ -27,21 +27,31 @@ export const Work = [
       description:"A simple yet fun AI chatbot built with HTML, CSS, and JavaScript. Try asking it questions!",
       tags:["HTML","CSS","JavaScript"],
 
-      demo:"https://sarthak-shastrakar.github.io/Ai-chatbot/",
+      demo:"https://sarthak-shastrakar.github.io/chatbot-AI/",
       github:"https://github.com/sarthak-shastrakar/chatbot-AI"
   },
-  //   {
-  //     id: 4,
-  //     name: "Sidebar Menu",
-  //     description:
-  //       "A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-  //     tags: ["react", "styledComponents", "react-router"],
+    {
+      id: 4,
+      name: "AI-Assistant",
+      description:
+        "A simple, browser-based AI Assistant created using HTML, CSS, and JavaScript. This project provides a clean and interactive chatbot interface that responds to user input in real-time.",
+      tags: ["HTML", "CSS3", "JavaScript"],
 
-  //     demo: "https://react-sidebar.vercel.app/",
-  //     github: "https://github.com/codebucks27/react-sidebar",
-  //   },
+      demo: "https://sarthak-shastrakar.github.io/AI-assistant/",
+      github: "https://github.com/sarthak-shastrakar/AI-assistant",
+    },
+     {
+      id: 5,
+      name: "Skin Disease Detection Using CNN",
+      description:
+        " A Machine Learning-based web application that helps users detect skin diseases through image analysis The system accepts skin images, classifies the disease using a trained CNN model, and provides useful information about the diagnosis.",
+      tags: ["Streamlit, HTML/CSS ,Python, TensorFlow, Keras, OpenCV", "ML/DL: CNN, FPDF,Geopy"],
+
+      demo: "https://skin-diagnose-detection-project-001.streamlit.app/",
+      github: "https://github.com/sarthak-shastrakar/skin-diagnose-detection-project",
+    },
   {
-    id: 5,
+    id: 6,
     name: "Todo App[React]",
     description: "A todo app build using React.js technology",
     tags: ["React.js", "JavaScript"],
@@ -50,7 +60,7 @@ export const Work = [
     github: "https://github.com/sarthak-shastrakar/Todo-App",
   },
   {
-    id: 6,
+    id: 7,
     name: "API Based Jokes_Maker App",
     description: "A Jokes Maker App build using React.js technology",
     tags: ["React.js", "API"],
