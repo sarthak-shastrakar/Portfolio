@@ -17,7 +17,6 @@ function App() {
   return (
     <>
       <GlobalStyle />
-
       <ThemeProvider theme={lightTheme}>
         <AnimatePresence mode="wait">
           <Routes key={location.pathname} location={location}>

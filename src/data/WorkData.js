@@ -12,44 +12,48 @@ export const Work = [
     github: "https://github.com/sarthak-shastrakar/Conectify-Call",
   },
   {
-      id:2,
-      name:"Personal Portfolio Website",
-      description:"A personal portfolio website build using ReactJS, Framer-Motion and Animation. It is a responsive website with a clean and modern design.",
-      tags:["React.js","AOS", "CSS"],
+    id: 2,
+    name: "Personal Portfolio Website",
+    description:
+      "A personal portfolio website build using ReactJS, Framer-Motion and Animation. It is a responsive website with a clean and modern design.",
+    tags: ["React.js", "AOS", "CSS"],
 
-      demo:"https://sarthak-shastrakar.github.io/Portfolio/",
-      github:"https://github.com/sarthak-shastrakar/Portfolio"
-
+    demo: "https://sarthak-shastrakar.github.io/Portfolio/",
+    github: "https://github.com/sarthak-shastrakar/Portfolio",
   },
   {
-      id:3,
-      name:"Personal Ai chatbot",
-      description:"A simple yet fun AI chatbot built with HTML, CSS, and JavaScript. Try asking it questions!",
-      tags:["HTML","CSS","JavaScript"],
+    id: 3,
+    name: "Personal Ai chatbot",
+    description:
+      "A simple yet fun AI chatbot built with HTML, CSS, and JavaScript. Try asking it questions!",
+    tags: ["HTML", "CSS", "JavaScript"],
 
-      demo:"https://sarthak-shastrakar.github.io/chatbot-AI/",
-      github:"https://github.com/sarthak-shastrakar/chatbot-AI"
+    demo: "https://sarthak-shastrakar.github.io/chatbot-AI/",
+    github: "https://github.com/sarthak-shastrakar/chatbot-AI",
   },
-    {
-      id: 4,
-      name: "AI-Assistant",
-      description:
-        "A simple, browser-based AI Assistant created using HTML, CSS, and JavaScript. This project provides a clean and interactive chatbot interface that responds to user input in real-time.",
-      tags: ["HTML", "CSS3", "JavaScript"],
+  {
+    id: 4,
+    name: "AI-Assistant",
+    description:
+      "A simple, browser-based AI Assistant created using HTML, CSS, and JavaScript. This project provides a clean and interactive chatbot interface that responds to user input in real-time.",
+    tags: ["HTML", "CSS3", "JavaScript"],
 
-      demo: "https://sarthak-shastrakar.github.io/AI-assistant/",
-      github: "https://github.com/sarthak-shastrakar/AI-assistant",
-    },
-     {
-      id: 5,
-      name: "Skin Disease Detection Using CNN",
-      description:
-        " A Machine Learning-based web application that helps users detect skin diseases through image analysis The system accepts skin images, classifies the disease using a trained CNN model, and provides useful information about the diagnosis.",
-      tags: ["Streamlit, HTML/CSS ,Python, TensorFlow, Keras, OpenCV", "ML/DL: CNN, FPDF,Geopy"],
+    demo: "https://sarthak-shastrakar.github.io/AI-assistant/",
+    github: "https://github.com/sarthak-shastrakar/AI-assistant",
+  },
+  {
+    id: 5,
+    name: "Skin Disease Detection Using CNN",
+    description:
+      " A ML-based web app that detects skin diseases from images using a trained CNN model and provides diagnostic details.",
+    tags: [
+      "Streamlit, HTML/CSS ,Python, TensorFlow, Keras, OpenCV ,ML/DL, CNN, FPDF,Geopy",
+    ],
 
-      demo: "https://skin-diagnose-detection-project-001.streamlit.app/",
-      github: "https://github.com/sarthak-shastrakar/skin-diagnose-detection-project",
-    },
+    demo: "https://skin-diagnose-detection-project-001.streamlit.app/",
+    github:
+      "https://github.com/sarthak-shastrakar/skin-diagnose-detection-project",
+  },
   {
     id: 6,
     name: "Todo App[React]",
