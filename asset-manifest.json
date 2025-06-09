@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4eef0f92.css",
-    "main.js": "/Portfolio/static/js/main.7d87e5b6.js",
+    "main.js": "/Portfolio/static/js/main.14578f44.js",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/image_1.png": "/Portfolio/static/media/image_1.e630f239968e0460342a.png",
     "static/media/spaceman2.png": "/Portfolio/static/media/spaceman2.4aa1e6e6a8203ae8e2af.png",
@@ -14,10 +14,10 @@
     "static/media/certificate3.jpg": "/Portfolio/static/media/certificate3.42fdba65e84dc5b3c451.jpg",
     "index.html": "/Portfolio/index.html",
     "main.4eef0f92.css.map": "/Portfolio/static/css/main.4eef0f92.css.map",
-    "main.7d87e5b6.js.map": "/Portfolio/static/js/main.7d87e5b6.js.map"
+    "main.14578f44.js.map": "/Portfolio/static/js/main.14578f44.js.map"
   },
   "entrypoints": [
     "static/css/main.4eef0f92.css",
-    "static/js/main.7d87e5b6.js"
+    "static/js/main.14578f44.js"
   ]
 }
