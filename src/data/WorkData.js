@@ -47,7 +47,7 @@ export const Work = [
     description:
       " A ML-based web app that detects skin diseases from images using a trained CNN model and provides diagnostic details.",
     tags: [
-      "Streamlit, HTML/CSS ,Python, TensorFlow, Keras, OpenCV ,ML/DL, CNN, FPDF,Geopy",
+      "Streamlit", "HTML/CSS" ,"Python", "TensorFlow", "Keras", "OpenCV" ,"ML/DL", "CNN", "FPDF","Geopy",
     ],
 
     demo: "https://skin-diagnose-detection-project-001.streamlit.app/",
