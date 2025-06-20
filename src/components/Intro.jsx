@@ -51,10 +51,6 @@ const Text = styled.div`
     font-size: calc(0.6rem + 1.2vw);
     font-weight: 300;
   }
-  // background: #fffeef;
-  // background: linear-gradient(to right, #fffeef 0%, #7277ff 100%);
-  // -webkit-background-clip: text;
-  // -webkit-text-fill-color: transparent;
 `;
 
 const Intro = () => {

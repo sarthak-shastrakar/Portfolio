@@ -8,6 +8,7 @@ import AnchorComponent from "../subComponents/Anchor";
 // import BigTitle from "../subComponents/BigTitlte";
 import { motion } from "framer-motion";
 import { Gmail, Github, LinkedinIcon, Phone } from "../components/AllSvgs";
+import "../assets/styles/connectpage.css";
 
 const MainContainer = styled(motion.div)`
   background-image: url(${img});
@@ -28,6 +29,7 @@ const Center = styled.div`
   justify-content: center;
   align-items: center;
   padding-top: 4rem;
+  width:100%;
 `;
 
 // Framer-motion config
@@ -103,7 +105,10 @@ const BlogPage = () => {
                 <p>My Social Media..</p>
                 <ul>
                   <li>
-                    <a href="https://github.com/sarthak-shastrakar" target="_blank">
+                    <a
+                      href="https://github.com/sarthak-shastrakar"
+                      target="_blank"
+                    >
                       {" "}
                       <i>
                         <Github
@@ -116,7 +121,10 @@ const BlogPage = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.linkedin.com/in/sarthakshastrakar91/" target="_blank">
+                    <a
+                      href="https://www.linkedin.com/in/sarthakshastrakar91/"
+                      target="_blank"
+                    >
                       <i>
                         <LinkedinIcon width={25} height={25} />
                       </i>
@@ -124,7 +132,10 @@ const BlogPage = () => {
                     </a>
                   </li>
                   <li>
-                    <a href="mailto:sarthakshastrakar9@gmail.com" target="_blank">
+                    <a
+                      href="mailto:sarthakshastrakar9@gmail.com"
+                      target="_blank"
+                    >
                       <i>
                         <Gmail width={25} height={25} />
                       </i>

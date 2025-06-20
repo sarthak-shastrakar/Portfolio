@@ -43,6 +43,7 @@ const AboutPage = () => {
         </Spaceman>
         <div className="Main_Content">
         <div className="Main">
+        
           <div
             data-aos="zoom-in-left"
             data-aos-duration="3000"

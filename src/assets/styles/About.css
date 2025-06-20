@@ -18,12 +18,10 @@
   text-decoration: none;
   color: greenyellow;
 }
-.Main {
-  border: 2px solid white;
+.Main_Content {
+  border: 2px solid grey;
   color: aliceblue;
-  padding: 2rem;
-  width: 51vw;
-  height: 65vh;
+  width: 50vw;
   z-index: 3;
   line-height: 1.5;
   display: flex;
@@ -32,18 +30,25 @@
   font-size: calc(0.6rem + 1vw);
   backdrop-filter: blur(4px);
   position: absolute;
-  left: calc(3rem + 5vw);
-  top: 9.3rem;
+  left: calc(3rem + 2vw);
+  top: 8.3rem;
   font-family: "Ubuntu Mono", monospace;
   font-style: italic;
 }
+.Main_Content .Main {
+  width: 71vw;
+  padding: 0.6rem;
+  height: 65vh;
+}
 
-@media screen and (max-width: 600px) {
-  .Main {
-    overflow: scroll;
+@media screen and (max-width: 800px) {
+  .Main_Content .Main{
+    overflow-y: scroll;
   }
   .Main_Content {
-    height: 100vh;
+    height: auto;
+    width: 75vw;
+    border-radius: 5px;
   }
   .Social_Links ul {
     display: flex;
