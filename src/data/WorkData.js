@@ -46,19 +46,27 @@ export const Work = [
     name: "Travelling Site - StayCation",
     description:
       "A full-stack Airbnb-style travel website featuring property listings, Cloudinary image uploads, booking system, and responsive design. Built using Node.js, Express, EJS, MongoDB, and Cloudinary.",
-    tags: ["Node.js", "Express", "MongoDB", "EJS", "Cloudinary", "Bootstrap"],
+    tags: ["Node.js", "Express", "MongoDB", "EJS", "Cloudinary", "Bootstrap5"],
     demo: "https://travelling-site-airbnb.onrender.com", // Replace with actual live link if hosted
     github: "https://github.com/sarthak-shastrakar/Travelling-site-Airbnb",
   },
+   {
+    id: 6,
+    name: "MARKETMITRA – E-commerce Local Store Platform",
+    description:
+      "A responsive local store e-commerce platform with product filtering, Adding, cart functionality, and Cloudinary image uploads.",
+    tags: ["Node.js", "Express", "MongoDB", "EJS", "Cloudinary", "Bootstrap5"],
+    demo: "https://e-commerce-maket-mitra.onrender.com", // Replace with actual live link if hosted
+    github: "https://github.com/sarthak-shastrakar/E-Commerce-Maket_Mitra",
+  },
 
   {
-    id: 6,
+    id: 7,
     name: "Skin Disease Detection Using CNN",
     description:
       " A ML-based web app that detects skin diseases from images using a trained CNN model and provides diagnostic details.",
     tags: [
       "Streamlit",
-      "HTML/CSS",
       "Python",
       "TensorFlow",
       "Keras",
@@ -74,7 +82,7 @@ export const Work = [
       "https://github.com/sarthak-shastrakar/skin-diagnose-detection-project",
   },
   {
-    id: 7,
+    id: 8,
     name: "Todo App[React]",
     description: "A todo app build using React.js technology",
     tags: ["React.js", "JavaScript"],
@@ -83,7 +91,7 @@ export const Work = [
     github: "https://github.com/sarthak-shastrakar/Todo-App",
   },
   {
-    id: 8,
+    id: 9,
     name: "API Based Jokes_Maker App",
     description: "A Jokes Maker App build using React.js technology",
     tags: ["React.js", "API"],
