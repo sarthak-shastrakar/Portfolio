@@ -1,4 +1,3 @@
-/* From Uiverse.io by Smit-Prajapati */ 
 .button {
   /* in scss with just one variable i can change opacity with rgba(variable, opacity) but in css it's not possible so i have used three seperate variables */
   /* with hue-rotate color can be changed */
