@@ -556,15 +556,3 @@ const Main = () => {
 }
 
 export default Main
-
-
-
-
-
-
-
-
-
-
-
-// part 2
