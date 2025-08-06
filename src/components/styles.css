@@ -75,7 +75,7 @@
   height: 75vh;
   display: fle;
   padding: 20px;
-  overflow-y: hidden;
+  overflow-y: scroll;
   overflow-x: hidden;
   background: linear-gradient(
     132deg,
