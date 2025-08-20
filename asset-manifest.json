@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.308729e9.css",
-    "main.js": "/Portfolio/static/js/main.91fea956.js",
+    "main.css": "/Portfolio/static/css/main.00dc6c65.css",
+    "main.js": "/Portfolio/static/js/main.f0ee3325.js",
     "static/media/astronout_3d.png": "/Portfolio/static/media/astronout_3d.a026954aa7516298baee.png",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/image_1.png": "/Portfolio/static/media/image_1.e630f239968e0460342a.png",
     "static/media/spaceman2.png": "/Portfolio/static/media/spaceman2.4aa1e6e6a8203ae8e2af.png",
     "static/media/infosys_certificate.jpg": "/Portfolio/static/media/infosys_certificate.5afdf4dcc435920a5060.jpg",
     "static/media/simplilearn_certificate.jpg": "/Portfolio/static/media/simplilearn_certificate.fb0111325bdb42e3a1ed.jpg",
+    "static/media/simplilearn_devops.jpg": "/Portfolio/static/media/simplilearn_devops.bb4c2870255da5f16b35.jpg",
+    "static/media/Sarthak_Fullstack_developer.pdf": "/Portfolio/static/media/Sarthak_Fullstack_developer.1fe8b178e4ac465d1b13.pdf",
     "static/media/spaceman.png": "/Portfolio/static/media/spaceman.5ec7fcfa9a803ead726c.png",
     "static/media/certificate2.jpg": "/Portfolio/static/media/certificate2.6500ea4e9c71ab711ede.jpg",
     "static/media/javascript.png": "/Portfolio/static/media/javascript.d95c4234067acd790216.png",
     "static/media/css.jpg": "/Portfolio/static/media/css.51b3eba6c1490f659cbc.jpg",
     "static/media/certificate1.jpg": "/Portfolio/static/media/certificate1.748952ca967827530075.jpg",
     "static/media/certificate3.jpg": "/Portfolio/static/media/certificate3.42fdba65e84dc5b3c451.jpg",
-    "static/media/Sarthak_Fullstack_developer.docx": "/Portfolio/static/media/Sarthak_Fullstack_developer.7e41e87cac5e0a153fa7.docx",
     "index.html": "/Portfolio/index.html",
-    "main.308729e9.css.map": "/Portfolio/static/css/main.308729e9.css.map",
-    "main.91fea956.js.map": "/Portfolio/static/js/main.91fea956.js.map"
+    "main.00dc6c65.css.map": "/Portfolio/static/css/main.00dc6c65.css.map",
+    "main.f0ee3325.js.map": "/Portfolio/static/js/main.f0ee3325.js.map"
   },
   "entrypoints": [
-    "static/css/main.308729e9.css",
-    "static/js/main.91fea956.js"
+    "static/css/main.00dc6c65.css",
+    "static/js/main.f0ee3325.js"
   ]
 }
