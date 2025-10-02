@@ -107,8 +107,6 @@ const AboutPage = () => {
             </div>
           </div></div>
         </div>
-
-        <BigTitle text="ABOUT" top="10%" left="5%" />
       </div>
     </ThemeProvider>
   );
