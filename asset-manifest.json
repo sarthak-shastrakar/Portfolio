@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.00dc6c65.css",
-    "main.js": "/Portfolio/static/js/main.f0ee3325.js",
+    "main.css": "/Portfolio/static/css/main.5adda2ca.css",
+    "main.js": "/Portfolio/static/js/main.71f6b01d.js",
     "static/media/astronout_3d.png": "/Portfolio/static/media/astronout_3d.a026954aa7516298baee.png",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/image_1.png": "/Portfolio/static/media/image_1.e630f239968e0460342a.png",
@@ -17,11 +17,11 @@
     "static/media/certificate1.jpg": "/Portfolio/static/media/certificate1.748952ca967827530075.jpg",
     "static/media/certificate3.jpg": "/Portfolio/static/media/certificate3.42fdba65e84dc5b3c451.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.00dc6c65.css.map": "/Portfolio/static/css/main.00dc6c65.css.map",
-    "main.f0ee3325.js.map": "/Portfolio/static/js/main.f0ee3325.js.map"
+    "main.5adda2ca.css.map": "/Portfolio/static/css/main.5adda2ca.css.map",
+    "main.71f6b01d.js.map": "/Portfolio/static/js/main.71f6b01d.js.map"
   },
   "entrypoints": [
-    "static/css/main.00dc6c65.css",
-    "static/js/main.f0ee3325.js"
+    "static/css/main.5adda2ca.css",
+    "static/js/main.71f6b01d.js"
   ]
 }
