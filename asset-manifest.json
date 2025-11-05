@@ -1,27 +1,34 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5adda2ca.css",
-    "main.js": "/Portfolio/static/js/main.14bdc5b3.js",
+    "main.js": "/Portfolio/static/js/main.6957a1c6.js",
+    "static/media/MERNlogo.png": "/Portfolio/static/media/MERNlogo.b2c7ec4ba24983cb8bd6.png",
     "static/media/astronout_3d.png": "/Portfolio/static/media/astronout_3d.a026954aa7516298baee.png",
+    "static/media/JavascriptFile.png": "/Portfolio/static/media/JavascriptFile.e33114cc6fee28996422.png",
     "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
     "static/media/image_1.png": "/Portfolio/static/media/image_1.e630f239968e0460342a.png",
     "static/media/spaceman2.png": "/Portfolio/static/media/spaceman2.4aa1e6e6a8203ae8e2af.png",
     "static/media/infosys_certificate.jpg": "/Portfolio/static/media/infosys_certificate.5afdf4dcc435920a5060.jpg",
     "static/media/simplilearn_certificate.jpg": "/Portfolio/static/media/simplilearn_certificate.fb0111325bdb42e3a1ed.jpg",
     "static/media/simplilearn_devops.jpg": "/Portfolio/static/media/simplilearn_devops.bb4c2870255da5f16b35.jpg",
-    "static/media/Sarthak_Fullstack_developer.pdf": "/Portfolio/static/media/Sarthak_Fullstack_developer.1fe8b178e4ac465d1b13.pdf",
+    "static/media/react.png": "/Portfolio/static/media/react.26a94d6a11261a3115b1.png",
+    "static/media/css.png": "/Portfolio/static/media/css.80e21c1b90e0b94f7cec.png",
+    "static/media/java.png": "/Portfolio/static/media/java.bc8a97e6b177e2bce319.png",
+    "static/media/html.png": "/Portfolio/static/media/html.1d475b8bee0ea4c12666.png",
+    "static/media/tailwind-css.png": "/Portfolio/static/media/tailwind-css.7be4720ced8e21af910b.png",
+    "static/media/Sarthak_Fullstack_developer_new.pdf": "/Portfolio/static/media/Sarthak_Fullstack_developer_new.32a16d90b49080b023f3.pdf",
     "static/media/spaceman.png": "/Portfolio/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/docker (1).png": "/Portfolio/static/media/docker (1).8ab9c1399dbcfc426b1c.png",
     "static/media/certificate2.jpg": "/Portfolio/static/media/certificate2.6500ea4e9c71ab711ede.jpg",
-    "static/media/javascript.png": "/Portfolio/static/media/javascript.d95c4234067acd790216.png",
-    "static/media/css.jpg": "/Portfolio/static/media/css.51b3eba6c1490f659cbc.jpg",
+    "static/media/githubimg.png": "/Portfolio/static/media/githubimg.7904b7ac6980e4a16c57.png",
     "static/media/certificate1.jpg": "/Portfolio/static/media/certificate1.748952ca967827530075.jpg",
     "static/media/certificate3.jpg": "/Portfolio/static/media/certificate3.42fdba65e84dc5b3c451.jpg",
     "index.html": "/Portfolio/index.html",
     "main.5adda2ca.css.map": "/Portfolio/static/css/main.5adda2ca.css.map",
-    "main.14bdc5b3.js.map": "/Portfolio/static/js/main.14bdc5b3.js.map"
+    "main.6957a1c6.js.map": "/Portfolio/static/js/main.6957a1c6.js.map"
   },
   "entrypoints": [
     "static/css/main.5adda2ca.css",
-    "static/js/main.14bdc5b3.js"
+    "static/js/main.6957a1c6.js"
   ]
 }
