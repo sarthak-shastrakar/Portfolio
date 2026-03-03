@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5adda2ca.css",
-    "main.js": "/Portfolio/static/js/main.6957a1c6.js",
+    "main.css": "/Portfolio/static/css/main.32f2ef27.css",
+    "main.js": "/Portfolio/static/js/main.190a7988.js",
+    "static/js/945.9b452d4c.chunk.js": "/Portfolio/static/js/945.9b452d4c.chunk.js",
     "static/media/MERNlogo.png": "/Portfolio/static/media/MERNlogo.b2c7ec4ba24983cb8bd6.png",
     "static/media/astronout_3d.png": "/Portfolio/static/media/astronout_3d.a026954aa7516298baee.png",
     "static/media/JavascriptFile.png": "/Portfolio/static/media/JavascriptFile.e33114cc6fee28996422.png",
@@ -12,11 +13,13 @@
     "static/media/simplilearn_certificate.jpg": "/Portfolio/static/media/simplilearn_certificate.fb0111325bdb42e3a1ed.jpg",
     "static/media/simplilearn_devops.jpg": "/Portfolio/static/media/simplilearn_devops.bb4c2870255da5f16b35.jpg",
     "static/media/react.png": "/Portfolio/static/media/react.26a94d6a11261a3115b1.png",
+    "static/media/mongo-db.png": "/Portfolio/static/media/mongo-db.82a700d00eb6023332fe.png",
     "static/media/css.png": "/Portfolio/static/media/css.80e21c1b90e0b94f7cec.png",
     "static/media/java.png": "/Portfolio/static/media/java.bc8a97e6b177e2bce319.png",
     "static/media/html.png": "/Portfolio/static/media/html.1d475b8bee0ea4c12666.png",
     "static/media/tailwind-css.png": "/Portfolio/static/media/tailwind-css.7be4720ced8e21af910b.png",
     "static/media/Sarthak_Fullstack_developer_new.pdf": "/Portfolio/static/media/Sarthak_Fullstack_developer_new.32a16d90b49080b023f3.pdf",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.d46f0a0c8fa69c3174ef.png",
     "static/media/spaceman.png": "/Portfolio/static/media/spaceman.5ec7fcfa9a803ead726c.png",
     "static/media/docker (1).png": "/Portfolio/static/media/docker (1).8ab9c1399dbcfc426b1c.png",
     "static/media/certificate2.jpg": "/Portfolio/static/media/certificate2.6500ea4e9c71ab711ede.jpg",
@@ -24,11 +27,12 @@
     "static/media/certificate1.jpg": "/Portfolio/static/media/certificate1.748952ca967827530075.jpg",
     "static/media/certificate3.jpg": "/Portfolio/static/media/certificate3.42fdba65e84dc5b3c451.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.5adda2ca.css.map": "/Portfolio/static/css/main.5adda2ca.css.map",
-    "main.6957a1c6.js.map": "/Portfolio/static/js/main.6957a1c6.js.map"
+    "main.32f2ef27.css.map": "/Portfolio/static/css/main.32f2ef27.css.map",
+    "main.190a7988.js.map": "/Portfolio/static/js/main.190a7988.js.map",
+    "945.9b452d4c.chunk.js.map": "/Portfolio/static/js/945.9b452d4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5adda2ca.css",
-    "static/js/main.6957a1c6.js"
+    "static/css/main.32f2ef27.css",
+    "static/js/main.190a7988.js"
   ]
 }
