@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.9041a3dc.css",
-    "main.js": "/Portfolio/static/js/main.6edfdcd0.js",
+    "main.js": "/Portfolio/static/js/main.a3596db8.js",
     "static/js/945.9b452d4c.chunk.js": "/Portfolio/static/js/945.9b452d4c.chunk.js",
     "static/media/MERNlogo.png": "/Portfolio/static/media/MERNlogo.b2c7ec4ba24983cb8bd6.png",
     "static/media/astronout_3d.png": "/Portfolio/static/media/astronout_3d.a026954aa7516298baee.png",
@@ -28,11 +28,11 @@
     "static/media/certificate3.jpg": "/Portfolio/static/media/certificate3.42fdba65e84dc5b3c451.jpg",
     "index.html": "/Portfolio/index.html",
     "main.9041a3dc.css.map": "/Portfolio/static/css/main.9041a3dc.css.map",
-    "main.6edfdcd0.js.map": "/Portfolio/static/js/main.6edfdcd0.js.map",
+    "main.a3596db8.js.map": "/Portfolio/static/js/main.a3596db8.js.map",
     "945.9b452d4c.chunk.js.map": "/Portfolio/static/js/945.9b452d4c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9041a3dc.css",
-    "static/js/main.6edfdcd0.js"
+    "static/js/main.a3596db8.js"
   ]
 }
