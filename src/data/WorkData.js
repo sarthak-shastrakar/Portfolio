@@ -9,7 +9,7 @@ export const Work = [
     tags: ["MERN stack", "React.js", "Node.js", "MongoDB"],
 
     demo: "https://conectify-frontend.onrender.com",
-    github: "https://github.com/sarthak-shastrakar/Conectify-Call",
+    github: "https://github.com/sarthak-shastrakar/conectify",
   },
   {
     id: 2,
