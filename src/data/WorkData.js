@@ -8,7 +8,7 @@ export const Work = [
       " A real-time video conferencing application built using the MERN (MongoDB, Express, React, Node.js) technology stack.",
     tags: ["MERN stack", "React.js", "Node.js", "MongoDB"],
 
-    demo: "https://conectify-call-frontend.onrender.com",
+    demo: "https://conectify-frontend.onrender.com",
     github: "https://github.com/sarthak-shastrakar/Conectify-Call",
   },
   {
