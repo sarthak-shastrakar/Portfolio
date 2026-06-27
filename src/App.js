@@ -12,6 +12,8 @@ import WorkPage from "./components/WorkPage";
 import MySkillsPage from "./components/MySkillsPage";
 import Certification from "./components/Certification";
 
+// hello
+
 function App() {
   const location = useLocation();
   return (
